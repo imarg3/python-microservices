@@ -1,4 +1,6 @@
 .DS_Store
-.idea
+.idea/
 venv/
 __pycache__/
+.dbdata/
+
